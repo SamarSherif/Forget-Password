@@ -1,3 +1,4 @@
+*you should run "npm install"
 Sign In(form do nothing)
   -choose forget password hiperlink
 Reset Password(Form)
