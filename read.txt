@@ -1,0 +1,5 @@
+Sign In(form do nothing)
+  -choose forget password hiperlink
+Reset Password(Form)
+  -only a valid mail will bs accepted (samarsherif20@gmail.com)
+  -Code : 123456 
